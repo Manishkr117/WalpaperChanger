@@ -1,0 +1,7 @@
+C:\MyGithub\WalpaperChanger\WalpaperChanger\obj\Debug\WalpaperChanger.csprojAssemblyReference.cache
+C:\MyGithub\WalpaperChanger\WalpaperChanger\obj\Debug\WalpaperChanger.csproj.CoreCompileInputs.cache
+C:\MyGithub\WalpaperChanger\WalpaperChanger\bin\Debug\WalpaperChanger.exe.config
+C:\MyGithub\WalpaperChanger\WalpaperChanger\bin\Debug\WalpaperChanger.exe
+C:\MyGithub\WalpaperChanger\WalpaperChanger\bin\Debug\WalpaperChanger.pdb
+C:\MyGithub\WalpaperChanger\WalpaperChanger\obj\Debug\WalpaperChanger.exe
+C:\MyGithub\WalpaperChanger\WalpaperChanger\obj\Debug\WalpaperChanger.pdb
